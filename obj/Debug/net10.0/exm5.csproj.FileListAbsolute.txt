@@ -1,0 +1,14 @@
+/Users/apple/Desktop/exm5/bin/Debug/net10.0/exm5
+/Users/apple/Desktop/exm5/bin/Debug/net10.0/exm5.deps.json
+/Users/apple/Desktop/exm5/bin/Debug/net10.0/exm5.runtimeconfig.json
+/Users/apple/Desktop/exm5/bin/Debug/net10.0/exm5.dll
+/Users/apple/Desktop/exm5/bin/Debug/net10.0/exm5.pdb
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.AssemblyInfoInputs.cache
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.AssemblyInfo.cs
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.dll
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/refint/exm5.dll
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.pdb
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/exm5.genruntimeconfig.cache
+/Users/apple/Desktop/exm5/obj/Debug/net10.0/ref/exm5.dll
